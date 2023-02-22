@@ -44,6 +44,7 @@ const Login = () => {
   });
 
   const ctx = useContext(AuthContext);
+
   const emailInputRef = useRef();
   const passwordInputRef = useRef();
 
