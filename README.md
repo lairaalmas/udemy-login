@@ -9,6 +9,7 @@ Guided project developed during the course [React - The Complete Guide (incl Hoo
 ## Technologies:
 
 - Reactjs
-  - useEffect hook
-  - useReducer hook
-  - Context and useContext hook
+  - `useEffect` hook
+  - `useReducer` hook
+  - Context and `useContext` hook
+  - `forwardRef` and `useImperativeHandle`
