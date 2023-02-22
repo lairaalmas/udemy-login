@@ -11,4 +11,4 @@ Guided project developed during the course [React - The Complete Guide (incl Hoo
 - Reactjs
   - useEffect hook
   - useReducer hook
-  - Context
+  - Context and useContext hook
